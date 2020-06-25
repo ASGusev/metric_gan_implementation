@@ -1,0 +1,7 @@
+numpy
+scipy
+librosa
+soundfile
+pystoi
+torch
+tqdm
